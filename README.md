@@ -13,11 +13,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/laravel/laravel-line.svg">
-   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/laravel/laravel-line.svg">
+  <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/go/go-original-wordmark.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
