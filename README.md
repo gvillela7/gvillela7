@@ -18,8 +18,6 @@
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/go/go-original-wordmark.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
-  <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
