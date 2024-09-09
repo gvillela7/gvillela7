@@ -3,7 +3,7 @@
  
 ✔️ Who am I
    ##
-   Hi, I'm 🇧🇷 Gustavo V. Goulart, I have a degree in software engineering, working as a backend developer and passionate about free software. 🌱 Currently studying java and spring
+   Hi, I'm 🇧🇷 Gustavo V. Goulart, I have a degree in software engineering, working as a backend developer and passionate about free software. 🌱 Currently studying Golang
    ##
 
 <div>
