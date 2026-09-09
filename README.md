@@ -55,21 +55,19 @@ My current work spans multi-service platforms running on k3s in Oracle Cloud, in
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
 ## Projetos
 
-| Projeto | O que é | Stack |
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[laravel-vault](https://github.com/gvillela7/laravel-vault)** | `⚠️ descreva em uma frase o problema que resolve` | Laravel |
-| **[snake-docker-cli](https://github.com/gvillela7/snake-docker-cli)** | `⚠️ uma frase` | Go |
-| **[price](https://github.com/gvillela7/price)** | `⚠️ uma frase` | Go |
-| **[jump_park](https://github.com/gvillela7/jump_park)** | `⚠️ uma frase` | Laravel |
-
-> `⚠️ Substituir/complementar com o que realmente pesa no seu currículo — plataforma multi-serviço em k3s/OCI, plataforma de transporte e venda de ingressos, plataforma multitenant de RAG. Se o código é privado, use um card sem link descrevendo escopo, escala e resultado. Um projeto privado bem descrito vale mais que quatro repos públicos sem descrição.`
+| **[laravel-vault](https://github.com/gvillela7/laravel-vault)** | Package that reads secrets from HashiCorp Vault using userpass authentication and the KV secrets engine. | Laravel |
+| **[snake-docker-cli](https://github.com/gvillela7/snake-docker-cli)** | Cobra-based CLI to inspect containers, services and nodes across a Docker Swarm cluster. | Go |
+| **[jump_park](https://github.com/gvillela7/jump_park)** | Minimal REST API secured with Keycloak authentication. | Laravel |
+| **[price](https://github.com/gvillela7/price)** | Challenge project from the Full Cycle postgraduate program. | Go |
 
 ---
 
