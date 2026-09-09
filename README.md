@@ -75,8 +75,8 @@ My current work spans multi-service platforms running on k3s in Oracle Cloud, in
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=gvillela7&show_icons=true&theme=transparent&hide_border=true&hide=issues&cache_seconds=86400" alt="Estatísticas do GitHub de gvillela7">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvillela7&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="Linguagens mais usadas por gvillela7">
+<img src="./metrics/overview.svg" alt="Visão geral do GitHub de gvillela7" width="46%">
+<img src="./metrics/languages.svg" alt="Linguagens mais usadas por gvillela7" width="46%">
 
 </div>
 

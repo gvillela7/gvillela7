@@ -1,0 +1,49 @@
+# .github/workflows/metrics.yml
+# Gera os SVGs de estatisticas e commita no proprio repositorio.
+# Nenhum servico de terceiros em runtime: o README aponta para arquivos locais.
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 03:00 BRT, diariamente
+  workflow_dispatch:       # permite rodar manualmente pela aba Actions
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Card principal: perfil, atividade e repositorios
+      - name: Overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/overview.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: gvillela7
+          base: header, repositories
+          config_timezone: America/Sao_Paulo
+          config_display: large
+
+      # Card de linguagens
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: gvillela7
+          base: ""
+          config_timezone: America/Sao_Paulo
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 1%
